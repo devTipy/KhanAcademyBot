@@ -3,7 +3,7 @@
 // @version      2.0
 // @description  A (newly-revised) answer revealer for Khan Academy
 // @author       Theodore Romero (GitHub@TheodoreRomero)
-// @match        https://www.khanacademy.org*
+// @match        https://www.khanacademy.org/*
 // @grant        none
 // ==/UserScript==
 
