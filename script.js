@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Khan Academy Bot 2.0
-// @version      2.0
+// @version      2.3
 // @description  A (newly-revised) answer revealer for Khan Academy
 // @author       Theodore Romero (GitHub@TheodoreRomero)
 // @match        https://www.khanacademy.org/*
